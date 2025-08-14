@@ -39,5 +39,7 @@
 - Tweetagram - Turn Your tweets into Instagram posts.
 - Colorhub - Find perfect color palette for your next project
 - cardd - Create responsive one-page websites with drag and drop.
+- [squoosh](https://squoosh.app/) - 
 
 Stolen from this [reddit](https://www.reddit.com/r/web_design/comments/uq18cp/heres_a_list_of_free_platforms_you_need_for_your/) post
+There's also this [github repo](https://github.com/bradtraversy/design-resources-for-developers)
